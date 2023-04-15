@@ -1,2 +1,5 @@
 # SS_ProcGen_LandscapeGen
- Implementation of 8.3  Landscape Generation from Millington
+
+https://sydneys00.github.io/SS_ProcGen_LandscapeGen/
+
+Slider does not work yet, using it to adjust depth of map
